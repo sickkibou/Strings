@@ -1,2 +1,2 @@
 # Strings
-programming in c#
+programming in c#, c, html, css, js and sometimes python.
